@@ -1,0 +1,4 @@
+make: Entering directory `/Users/Daniel/code/dvtorrez42/packt'
+pip install -r requirements.txt
+make: Leaving directory `/Users/Daniel/code/dvtorrez42/packt'
+ 
